@@ -51,6 +51,11 @@ def greeting(name:str)->None:
     print(f"Hello, {name}!")
 
 
+def addingTwoNumber(number1 : int, number2 : int)->int:
+    return number1 + number2    
+
 if __name__ == "__main__":
     # This is just for testing
     greeting("Danish")
+
+    print(addingTwoNumber(1,2))
