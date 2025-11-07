@@ -1,0 +1,4 @@
+89 * 2 = 178
+90 * 12 = 1080
+4   = Invalid operator
+4 sqrt  = 2.0
