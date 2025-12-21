@@ -1,0 +1,1 @@
+er_operator:str = input("Enter the operator: ")
