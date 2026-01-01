@@ -1,0 +1,21 @@
+visit_id,customer_name,gender,smoker,day,time,order,bill_amount,tip,waiter,tip_percentage,payment_method
+1,John,Male,No,Monday,Dinner,Pizza,22.5,3.5,Alex,15.5,Credit Card
+2,Alice,Female,No,Tuesday,Lunch,Burger,15.0,2.0,Sara,13.3,Cash
+3,Bob,Male,Yes,Wednesday,Dinner,Pasta,18.0,2.5,Alex,13.9,Credit Card
+4,Eve,Female,No,Thursday,Lunch,Salad,12.5,1.5,Tom,12.0,Cash
+5,Charlie,Male,Yes,Friday,Dinner,Steak,35.0,6.0,Sara,17.1,Credit Card
+6,Dave,Male,Yes,Saturday,Dinner,Sushi,40.0,7.0,Alex,17.5,Credit Card
+7,Grace,Female,No,Sunday,Lunch,Tacos,20.0,3.0,Tom,15.0,Cash
+8,Hannah,Female,No,Sunday,Dinner,Seafood,45.0,8.0,Sara,17.8,Credit Card
+9,Ian,Male,No,Monday,Lunch,Sandwich,10.0,1.2,Alex,12.0,Cash
+10,Jack,Male,Yes,Tuesday,Dinner,Pizza,24.0,4.0,Tom,16.6,Credit Card
+11,Kate,Female,No,Wednesday,Lunch,Pasta,16.5,2.3,Sara,13.9,Cash
+12,Liam,Male,No,Thursday,Dinner,Burger,19.0,3.0,Alex,15.7,Credit Card
+13,Mia,Female,No,Friday,Lunch,Salad,14.0,2.0,Tom,14.2,Cash
+14,Noah,Male,Yes,Saturday,Dinner,Steak,38.0,6.5,Sara,17.1,Credit Card
+15,Olivia,Female,No,Sunday,Dinner,Sushi,42.0,7.5,Alex,17.8,Credit Card
+16,Paul,Male,No,Monday,Dinner,Pizza,21.0,3.2,Tom,15.2,Cash
+17,Queen,Female,No,Tuesday,Lunch,Tacos,18.0,2.7,Sara,15.0,Cash
+18,Ryan,Male,Yes,Wednesday,Dinner,Seafood,50.0,9.0,Alex,18.0,Credit Card
+19,Sophia,Female,No,Thursday,Lunch,Sandwich,11.5,1.5,Tom,13.0,Cash
+20,Tom,Male,Yes,Friday,Dinner,Pasta,26.0,4.5,Sara,17.3,Credit Card

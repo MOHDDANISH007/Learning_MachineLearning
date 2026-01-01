@@ -1,0 +1,16 @@
+visit_id,gender,smoker,day,time,order,bill_amount,tip,waiter
+1,Male,Yes,Monday,Dinner,Pizza,22.5,3.5,Alex
+2,Female,No,Tuesday,Lunch,Burger,15.0,2.0,Sara
+3,Male,No,Wednesday,Dinner,Pasta,18.0,2.5,Alex
+4,Female,Yes,Thursday,Lunch,Salad,12.5,1.5,Tom
+5,Male,No,Friday,Dinner,Steak,35.0,6.0,Sara
+6,Male,Yes,Saturday,Dinner,Sushi,40.0,7.0,Alex
+7,Female,No,Sunday,Lunch,Tacos,20.0,3.0,Tom
+8,Female,Yes,Sunday,Dinner,Seafood,45.0,8.0,Sara
+9,Male,No,Monday,Lunch,Sandwich,10.0,1.2,Alex
+10,Male,Yes,Tuesday,Dinner,Pizza,24.0,4.0,Tom
+11,Female,No,Wednesday,Lunch,Pasta,16.5,2.3,Sara
+12,Male,Yes,Thursday,Dinner,Burger,19.0,3.0,Alex
+13,Female,No,Friday,Lunch,Salad,14.0,2.0,Tom
+14,Male,No,Saturday,Dinner,Steak,38.0,6.5,Sara
+15,Female,Yes,Sunday,Dinner,Sushi,42.0,7.5,Alex
